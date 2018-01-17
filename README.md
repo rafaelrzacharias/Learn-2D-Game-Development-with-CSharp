@@ -13,7 +13,7 @@ NOTES:
 
 - In this second project I explored some new field while still improving some older features.
 
-- The animation system is a new one, and apart from basic animation and movement (WASD keys), the sprite features now rotation (J and I keys).
+- The Sprite class now features not only basic movement (WASD keys), but also rotation (J and I keys).
 
 - Camera can be controlled independently now (ARROW keys), and zoommed in/out (K and L keys).
 
