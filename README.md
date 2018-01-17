@@ -19,9 +19,9 @@ NOTES:
 
 - Learned the relationship between game world coordinate space and pixel coordinate space.
 
-- A collision system was implemented!! Sprites collide in two ways: AABB (alligned box) and pixel perfect (use carefully!). The collision system can act in all entities as needed, player-object or object-object.
+- A collision system was implemented. Sprites collide in two ways: AABB (axis-alligned bounding box) and pixel perfect (use carefully!). The collision system can act in all entities as needed, player-object or object-object.
 
-- For the first time an Audio engine interface was created. The aim was for me to understand how to play/stop/resume sounds in a game. This example showcased the difference of special effects and background/level music and how to code and use both!
+- For the first time an Audio engine interface was created. The aim was for me to understand how to play/stop/resume sounds in a game.
 
 - I implemented FontSupport and learned how to deal with printable characters (bitmap and truetype fonts).
 
