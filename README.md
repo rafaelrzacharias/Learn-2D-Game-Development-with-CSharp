@@ -29,6 +29,6 @@ NOTES:
 
 - Created the GameState and GameObject classes in order to practice good Object Oriented code, use inheritance and be able to reuse code more.
 
-- Created a more robust input handling class (inputMapper) with more button options, and learned how to code deadzone and the pressure sensitive buttons on gamepads (nice!!).
+- Created a more robust input handling class (inputMapper) with more button options, and learned how to code deadzone and the pressure sensitive buttons on gamepads.
 
 - Created a very simple AI-controlled enemies like the classes Chaser, Patrol, SpinningArrow. Some of those AI classes had auto-steering behaviors. This allowed me to learn more about vector math (dot, cross, angle conversions, normalize, etc).
