@@ -1,7 +1,5 @@
 # Learn 2D Game Development with CSharp
 
-This was my second project.
-
 Please visit: http://www.monogame.net/2017/03/01/monogame-3-6/
 
 Download and install MonoGame for Visual Studio.
